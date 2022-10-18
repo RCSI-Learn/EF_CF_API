@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_CF_API", "EF_CF_API\EF_CF_API.csproj", "{FB8C4A68-F68B-4EE3-97AA-C34FE854A39C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBase", "DataBase\DataBase.csproj", "{F36EF483-41FB-4309-932C-B9FA86D7B9B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB8C4A68-F68B-4EE3-97AA-C34FE854A39C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8C4A68-F68B-4EE3-97AA-C34FE854A39C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8C4A68-F68B-4EE3-97AA-C34FE854A39C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8C4A68-F68B-4EE3-97AA-C34FE854A39C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F36EF483-41FB-4309-932C-B9FA86D7B9B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F36EF483-41FB-4309-932C-B9FA86D7B9B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F36EF483-41FB-4309-932C-B9FA86D7B9B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F36EF483-41FB-4309-932C-B9FA86D7B9B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CF11238-2051-4B58-9A62-8E0F5B8F2EE6}
+	EndGlobalSection
+EndGlobal
